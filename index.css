@@ -38,12 +38,13 @@ article {
                         "as"
                         "f";
 }
-    .tarolo{
+    .tarolo {
         display: grid;
         grid-template-columns: 1fr;
     }
-    ul{
+
+    nav ul {
         display: grid;
-        grid-template-rows: 1fr 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 }
